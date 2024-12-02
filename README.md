@@ -4,7 +4,7 @@
 
 | Server                                                        | Availability                                                                    
 |---------------------------------------------------------------|----------------------------------------------------------------------------------
-| [SFTP1](https://sshcheck.com/server/sftp1.riskevolution.com/) | ![uptime](https://uptime.riskevo.com/api/badge/3/uptime/72?style=flat "PROD")  
+| [SFTP1](https://sshcheck.com/server/sftp1.riskevolution.com/) | ![uptime](https://uptime.riskevo.com/dashboard/3?style=flat "PROD")  
 | [SFTP2](https://sshcheck.com/server/sftp2.riskevolution.com/) | ![uptime](https://uptime.datagrid.de/api/badge/207/uptime/72?style=flat "SFTP2") 
 
 
