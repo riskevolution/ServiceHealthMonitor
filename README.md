@@ -4,8 +4,8 @@
 
 | Server                                                        | Availability                                                                    
 |---------------------------------------------------------------|----------------------------------------------------------------------------------
-| [SFTP1](https://sshcheck.com/server/sftp1.riskevolution.com/) | ![uptime](https://uptime.riskevo.com/dashboard/3?style=flat "PROD")  
-| [SFTP2](https://sshcheck.com/server/sftp2.riskevolution.com/) | ![uptime](https://uptime.datagrid.de/api/badge/207/uptime/72?style=flat "SFTP2") 
+| [PROD](https://TestRiskEvolutionService.azurewebsites.net/2001/Inflation/LatestPublications/HealthCheck) | ![uptime](https://uptime.riskevo.com/api/badge/3/uptime/72?style=flat "PROD"))  
+| [SFTP2]([https://sshcheck.com/server/sftp2.riskevolution.com/) ](https://TestRiskEvolutionService.azurewebsites.net/2001/Inflation/LatestPublications/HealthCheck) )| ![uptime](https://uptime.riskevo.com/api/badge/2/uptime/72?style=flat "UAT"))
 
 
 **SFTP Services Support**
