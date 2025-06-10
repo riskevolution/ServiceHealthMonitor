@@ -5,7 +5,7 @@
 | Server                                                        | Availability                                                                    
 |---------------------------------------------------------------|----------------------------------------------------------------------------------
 | [PROD](https://RiskEvolutionInflationService.azurewebsites.net/2001/Inflation/LatestPublications/HealthCheck) | ![uptime](https://uptime.riskevo.com/api/badge/3/uptime/72?style=flat "PROD")
-| [UAT](https://TestRiskEvolutionService.azurewebsites.net/2001/Inflation/LatestPublications/HealthCheck)| ![uptime](https://uptime.riskevo.com/api/badge/2/uptime/72?style=flat "UAT")
+| [DEV](https://riskevolutioninflationservice.azurewebsites.net/2001/Inflation/LatestPublications/HealthCheck)| ![uptime](https://uptime.riskevo.com/api/badge/2/uptime/72?style=flat "UAT")
 
 **Dashboard:** [Risk Evo Services Status](https://uptime.riskevo.com/status/inflation)
 
